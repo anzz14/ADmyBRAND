@@ -15,20 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'ADmyBRAND AI Suite - AI-Powered Marketing Revolution',
     description: 'Automate campaigns, analyze performance, and boost ROI by 300% with AI-powered marketing tools.',
-    url: 'https://admybrand.com',
-    images: [
-      {
-        url: 'https://admybrand.com/og-image.jpg',
-        width: 1200,
-        height: 630,
-        alt: 'ADmyBRAND AI Suite Dashboard',
-      }
-    ],
-  },
-  twitter: {
-    title: 'ADmyBRAND AI Suite - AI-Powered Marketing Revolution',
-    description: 'Transform your marketing with AI. Automate campaigns and boost ROI by 300%.',
-    images: ['https://admybrand.com/twitter-image.jpg'],
+    url: 'https://a-dmy-brand-omega.vercel.app/', 
   },
 }
 
